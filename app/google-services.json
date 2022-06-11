@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020601299751",
+    "project_id": "gita-academy",
+    "storage_bucket": "gita-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020601299751:android:68dde9cb6cca47d4606f02",
+        "android_client_info": {
+          "package_name": "uz.gita.gitaacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020601299751-6immo7pd9nc2usophcfsnvukaet755p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMzIlUNAbLBFDSzWpH1nwtjr9NokfUj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020601299751-6immo7pd9nc2usophcfsnvukaet755p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

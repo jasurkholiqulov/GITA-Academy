@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">Gita academy</string>
+    <string name="sherali_aka" translatable="false">\tDasturlashni o`rganib yurgan vaqtlarimda Qudrat Abdurahimovning 1000 ta masaladan iborat to`plamidan foydalanganman. Juda foydali bo`lgan menga. Keyinchalik Leetcode, Hackerrank va boshqa ko`plab manbalardan foydalanganman. Lekin boshlovchilar uchun Qudrat Abdurahimov masalalar to`plami yaxshi. Shuni ko`pchilikka tavsiya qilaman.
+
+\n2020 yil avgust oylarida Qudrat Abdurahimov Linkedin dan menga yozib qoldilar. Xatlarida quyidagicha edi:
+
+ - Mening ismim Qudrat. 2005 yildan buyon dasturlashni o`rgataman.\n
+
+ - C++ da dasturlash asoslari video kursini chiqarganman. 1000 ta masalani yechimi bilan o`rgatganmiz.\n
+
+ - Endi "Java dasturlash asoslari video kursi" ni chiqarish arafasidamiz.\n
+
+ - Masalalar sonini 1000 tadan 800 taga tushirdik, dasturchilar bilan maslaxatlashib.\n
+
+ - Video kursning maqsadi: Yoshlarda dasturlash asoslarini, algoritmdan boshlang`ich bilimlarni berish.\n
+
+ - Javaning to`liq imkoniyatlarini yoritish emas, maqsad boshlang`ich algoritm bilimlarini berish.\n
+
+ - Maqsad yoshlarni dasturlashga qiziqtirish. Bu video kursni mutlaqo BEPUL qilish niyatimiz bor.\n
+
+ Qudrat aka meni yangi "Javada dasturlash asoslari video kursida" expert sifatida ishtorik etishga, o`zimning fikr va takliflarimni berishga chaqirgandilar.
+
+To`g`risi xursand bo`ldim. Mendan tanlangan masalalar bo`limi haqida fikr va takliflarim so`ralgan edi. Masalalar yaxshi saralangan. Masalalarni tushunish oson bo`lishi uchun kiruvchi - chiquvchi ma`lumotlarni ham berish va boshqa takliflarimni berdim.
+
+Xullas bu qilgan ishimiz ko`p odamga manfaatli bo`ladi deb umid qilaman. Dasturchi bo`laman deganlarga aynan ushbu qo`llanmadan boshlashni tavsiya qilaman!</string>
+    <string name="reklama">\tBiz sizga dasturchi kabi fikrlashni o`rgatamiz!\n
+
+Gita Dasturchilar Akademiyasi bilan bogʻlanish:\n
+\n
+Telefon: +998999884031\n\n
+
+Telegram: @Gitaadmin\n\n
+
+Yangiliklarni ijtimoiy tarmoqlarda kuzating: \n\n
+</string>
+    <string name="title_qudrataka">Dasturchi bo’lishni xohlaysizmi?</string>
+    <string name="text_qudrataka">\tDasturlash bilan shug’ullanishdan oldin nimalarni bilish kerak?
+
+\nDasturlash bilan shug’ullanmoqchi bo’lgan inson matematika va mantiq (logika) fanlaridan ma’lum bir ilmga ega bolishi kerak. Chunki biror sonning foizini hisoblay olmagan, yoki chiziqli tenglamani yechishni bilmagan, kasrga maxraj tenglashni bilmagan odamdan dasturchi chiqmaydi.
+
+\n2) Qaysi dasturlash tilini o’rgansam ekan? \n
+
+Bundan tashqari kompyuter bilimlariga ega bo’lishi kerak. Windows, MS Office dasturlarini bilishi kerak. Chunki kompyuterda yaxshi ishlashni bilmagan inson qanday qilib kompyuter foydalanuvchilari uchun kerakli dastur tuzishi mumkin?
+
+Bu savolga aniq bir javob berish qiyin. Chunki talab va taklif, maqsad va imkoniyatdan kelib chiqqan holda u yoki bu dasturlash tilini tanlash mumkin. Zamonaviy dasturlash tillarining o’ziga yarasha afzallik va kamchiliklari mavjud.
+
+Agar Siz biror qurilmaga driver yozmoqchi bo’lsangiz, yoki qurilmalar bilan ishlaydigan dastur tuzmoqchi bo’lsangiz C dasturlash tilini tanlashlik tavsiya qilinadi.
+
+Web saytlar ishlab chiqish uchun PHP v MySql tavsiya etiladi.
+
+Bank tizimi kabi katta xajmdagi va yuqori hafsizlikni talab qilinadigan tizimlarda Java va Oracle tavsiya etiladi. Mobil telefonlarga dastur tuzishda ham Java yetakchilik qiladi.
+
+.NET texnologiyasi uchun dastur tuzishlikda C# tavsiya etiladi. Chunki bu dasturlash tili aynan .NET uchun ishlab chiqilgan.
+
+Agar Windows amaliyot tizimi uchun dastur tuzmoqchi bo’lsangiz, visual dasturlash tillaridan birini tanlashingiz kerak bo’ladi.
+
+Hozirgi kundagi eng mashhur visual dasturlash tillariga quyidagilarni kiritish mumkin: Microsoft C#, Visual C++, Visual Basic, Borland C++ Builder, Delphi
+
+Agar buyurtmachi biror dasturlash tilida dastur tuzishlikni talab qilmasa, Siz o’zingiz xohlagan dasturlash tilida dastur tuzishingiz mumkin. Chunki ba’zi hollarda buyurtmachini faqat natija qiziqtiradi. Siz qaysi dasturlash tilida dastur tuzishingizni buyurtmachiga umuman qizig’i yo’q.
+
+Shu o’rinda bitta hayotiy misol keltirishga ruxsat bersangiz.
+
+Super marketlar kirim – chiqimini hisoblovchi “Panda” nomli dastur Shavkat Muxammedov tomonidan 1991-1994 yillarda ishlab chiqilgan. MS-DOS amaliyot tizimida ishlaydi.
+
+Shunday bo’lishiga qaramasdan haligacha (bugungi sana 12.04.2010) Toshkent shaxridagi ko’p super marketlarda “Panda” dasturi ishlatiladi. (http://panda.uz/ saytidan ko’proq ma’lumot olishingiz mumkin.) Yoki super marketda berilgan cheklarda “Panda pos” yozuviga ko’zingiz tushgandir. Ko’p narsa dasturchining mahoratiga ham bog’liq. Dasturlash tilining zo’r bo’lishligi bilan ish bitmaydi. Ham dasturlash tili, ham dasturchi zo’r bo’lsa, shunda yaxshi natijalarga erishiladi.
+
+Qaysi dasturlash tilini tanlasangiz ham, shu tilni professional darajada o’rganing. Keyin boshqa dasturlash tillarini o’rganishingiz oson bo’ladi. Bir dasturlash tilini mukammal darajada (yetarlicha) o’rganmasdan turib boshqasiga o’tish bu adashishdir. O’rgangan tilingiz bo’yicha kamida bitta tayyor dastur tuzing. Tuzgan dasturingiz qaysidir bir sohaning muammosini hal qilsin. Hayotda kimlardir u dasturdan foydalansin. Shundagina Siz qaysidir dasturlash tilini o’rgandim, yoki bilaman deyishingiz mumkin. Keyin boshqa dasturlash tiliga o’tsangiz bo’ladi.
+
+Bir dasturlash tilini mukammal bilgan dasturchiga, boshqa bir dasturlash tilini o’rganish qiyin bo’lmaydi.
+
+\n3) Faqat Universitetda o’qigan talabalar dasturchi bo’lishadimi? \n
+
+Siz yashab turgan muhitda, Siz mukammal darajada o’rganishingiz mumkin bo’lgan dasturlash tilini o’rganishingiz, Siz uchun eng to’g’ri yo’l.
+
+Yo’q. Dasturchi bo’lish uchun albatta Universitetda o’qish shart emas. “Nahotki?” deb xayron bo’layotgan bo’lsangiz kerak. Xayron bo’lmang. Siz kollej talabasi yoki Universitetda dasturlash yo’nalishida emas, boshqa yo’nalishda o’qiyotgan bo’lishingiz mumkin. Lekin mustaqil ravishda dasturlashni o’rganishingiz mumkin. Maqolani o’qishda davom etsangiz, qanday qilib dasturlashni mustaqil ravishda professional darajada o’rganishni bilib olasiz.
+
+Universitetda dasturlash yo’nalishida ta’lim olayotgan talabalardan 100 tasidan ko’pi bilan 20 – 25 ta yaxshi dasturchi chiqadi. (Maqolada faqat o’zbek guruhlari haqida gap ketadi)
+
+Buning bir necha sabablari bor. Ba’zi talabalar dasturchi bo’lishni xohlashmaydi. Diplom olish uchun o’qishayotganini aytishadi.
+
+Ba’zi talabalar universitetda o’rgatilayotgan fan va mavzular bilan chegaralanib qolishadi. Laboratoriya va mustaqil ishlarni bajarishadi. Xatto qizil diplom ham olishadi. Lekin ertaga hayotda ular o’rgangan bilimlar juda kamlik qiladi.
+
+Misol uchun o’z ko’zim bilan ko’rgan ba’zi voqealarni keltirib o’tsam. 1999 yil men va do’stlarim Ismoil, Ulug’bek Toshkent Davlat Texnika Universitetiga o’qishga kirdik. Bir kuni Nabi aka talabalariga Windowsda fayldan nusxa olishni tushuntirayotganini ko’rib qoldik. Ismoil va men xuddi osmondan tushgandek qotib qoldik. Fayldan nusxa olish jarayonida bir papkadan xujjatlar ikkinchi papkaga qarab otilardi. Biz bunaqa narsani ko’rgan emasmiz. Ko’zimiz ham, og’zimiz ham ochiq. Men Ismoilga, Ismoil esa menga qaraydi. Bir birimizga bu narsani o’rganmasak bo’lmaydi dedik.
+
+Nabi aka hozirgi kunda Toshkent Axborot Texnologiyalari Universitetida o’quv bo’limi boshlig’i lavozimida ishlaydilar.
+
+Nabi akani “Telematika” nomli o’quv markazi bor edi. Shu o’quv kursida Ismoil va men o’qiy boshladik. Ulug’bek esa bu narsalarni darsda o’tilsa shunda o’rganib olaman deb kursga qatnashmadi. Ismoil va men 3 oylik kursni o’qib tugatsik.
+
+Ulug’bek biz 3 oyda o’rgangan narsalarni 3 – kursda to’la o’zlashtirdi. Shunaqa kursdoshlarimiz ham bor ediki, universitetni tugatganda ham biz 3 oyda o’rgangan ba’zi narsalarni bilmasdi.
+
+Gapning qisqasi men 3 oy ustozim Nabi akadan o’rgangan narsalar 4 yil Universitetda o’rgangan narsalardan ko’p edi.
+
+Afsuzki, Nabi akaning vaqtlari kam bo’lganligi uchun “Telematika” o’quv markazi hozir ishlamayapti. Shuning uchun kompyuterdan boshlang’ich bilim olish niyatidagilarga Toshkent shaxrida boshqa yaxshi o’quv markazini tavsiya eta olmayman.
+
+Qiziqarlisi xali oldinda.
+</string>
+    <string name="text_sherzodaka">\t Dasturlashga kirib olish
+IT sohasida yoʻnalishni tanlashdan oldin, avvalo, boshlangʻich tushunchalarning tub mohiyatini tushunib olish talab etiladi. Bu esa bir qancha qiyinchiliklarni keltirib chiqaradi. Hamma ishda tartib boʻlgani yaxshi, shu jumladan, dasturlashni oʻrganishda ham. ʻʻHello worldʻʻ ni chiqarmay turib yaxshi dasturchi boʻlish - bu xuddiki karra jadvalini bilmagan kishi matematikadan trigonometriya misollarini yechishga harakat qilishidek gap. Demak, birinchi qilinishi kerak boʻlgan ishlar: dastur nima, maqsadi nima, qanday vazifalarni bajaradi, qanday afzalliklari bor, nima uchun dasturlashni oʻrganishim kerak… kabi savollarga javob topishdan boshlanadi.\n 2. Dasturlashni qaysi sohasida karyera qilishni tanlash
+Yuqoridagi savollarga javob topilganidan keyingi muammo qaysi dasturlash sohasini tanlash haqida boʻladi. Hozirgi kunda koʻplab dasturlash sohalari mavjud. Misol uchun Java, Android, Python, Php va boshqalar. Bu sohalarda developerlik qilish orqali koʻplab yutuqlarga erishish mumkin. Bu sohalarni tanlashda qaysi muhit sizga yaqinroqligini va eng zoʻr oʻqita oladigan shaxs qaysi birida ekanligini topish koʻproq muvaffaqiyat keltiradi. Albatta, qolgan ustozlarga hurmatni saqlagan holda buni amalga oshirish kerak.\n 3. Vaqtni toʻgʻri taqsimlash
+Dasturlashni tanlaganingizdan keyingi qiyinchilik - bu vaqt masalasi. Chunki yetarlicha vaqt ajratilmasa kerakli natijaga erishish orzuligicha qolaveradi. Bugun qilingan 1 kunlik mehnat keyin qilinadigan 10 kunga teng kelishi mumkin. Shuning uchun bir kunda hech boʻlmaganda 5 soat vaqt ajratishingiz kerak. 7 8 oyda dasturlash sohasiga mukammal ravishda kirishga erishiladi. Qaytaraman, dasturlashga kirib olishga yetadi, dasturlashni mukammal ravishda oʻrganishga emas. Eng muhim bosqich shu yerda, ya`ni dasturlashga kirib olishda bo`ladi. Undan keyingi oʻrganishlar anchagina osonlashadi.\n\t4. Ishga kirishdagi qiyinchilik
+Dasturlashga kirib olgandan keyingi qiyinchilik bu birinchi ish joyiga ega bo`lish hisoblanadi. Hozirgi kunda koʻp joylar faqat 2 yildan ortiq tajribaga ega boʻlgan kishilarni ishga qabul qilishyapti. Bu degani yangi o`rgangan dasturchilarga ish joyi yoʻq degani emas. Yangi oʻrganganlar 2 3 oy tajriba ortirishiga toʻgʻri keladi. Asosiysi bilimingiz borligini koʻrsatish, xolos. Dasturlash sohasidek ajoyib kasb yoʻq. Bu kasbda har doim mehnatingizga yarasha ragʻbatlantirilasiz.
+</string>
+    <string name="title_sherzodaka">Dasturlashni oʻrganishda duch kelinadigan qiyinchiliklar</string>
+    <string name="title_jahongir">Dasturlashni qaysi manbadan oʻrganishni boshlash kerak</string>
+    <string name="text_jahongir">"\tIsh faoliyatini 2014-yildan boshlab, muvaffaqiyatli yoʻl bosgan bu dasturchi Amazondagi ish haqida maqolasida yozadi. Maqolada ishga kirish jarayoni batafsil yoritilgan boʻlib, muallif oʻz xulosalarini ham baham koʻrgan. Suhbatlarga tayyorlanish uchun foydalanilgan manbalardan tortib, berilgan savollar ham bayon etilgan. Amazon rad javobini bergan boʻlsa-da, bu suhbatlar Jahongir aka uchun katta tajriba boʻldi. Ishonamizki, Jahongir Rahmonov yuksak marralarni egallaydi. Maqolada nima hayratga soldi deysizmi? Amazonga ishga kirish uchun Jahongir Rahmonov foydalangan 3 manbaga diqqat bilan qarasak, bizga maʼlum va mashhur oʻsha kitob, Qudrat Abdurahimovning masalalar toʻplamiga koʻzimiz tushadi:-).  Eng muhim va eng zerikarli boʻlgan bu kitob – dasturlashga ilk qadam, desak mubolagʻa boʻlmaydi. Har bir dasturchidan talab qilinadigan algoritm aynan mana shu adabiyotda sodda va toʻliq tushuntirilgan boʻlib, barcha foydalanuvchilarning eʼtirofiga sazovor boʻlgan. Bu kitob – dasturlashni endi boshlovchilar uchun eng maqbul tanlov, chunki u oʻzbek tilidagi eng sifatli va noyob darslik hisoblanadi. Ma`ruzalar matni va masalalar toʻplami esa mutlaqo tekin boʻlib, 2021-yilda yangilangan versiyasini olish uchun ushbu havola orqali roʻyxatdan oʻtishingizni soʻraymiz. Qadrli ustozimiz Qudrat Abdurahimovning bu buyuk mehnati orqali yetishib chiqqan dasturchilar sifatida tashakkurlar aytamiz. Shunday ekan, mazkur qoʻllanmani oʻzlashtirgan dasturchilar muvaffaqiyatini yoritib borishdan doimo shodmiz. Amazonda ishlash istagida boʻlganlarni esa GITA Dasturchilar Akademiyasida kutamiz! :-) "</string>
+    <string name="title_abdumajidaka">Dasturlashni pul uchun o`rganmaganman</string>
+    <!--<string name="text_temurusmon">Hozirgi vaqtga kelib interfeys animatsiyasi bilan foydalanuvchida taassurot qoldirish yoki ajablantirish juda ham qiyin jarayon hisoblanadi. Agar bunday bo\'lsa animatsiyani asosiy vazifalari qanday? Dastur oynalari o\'rtasidagi munosabatlarni ko\'rsatish, foydalanuvchi e\'tiborini yo\'naltirish va dasturni qanday ishlashini tushintirishdan iborat. UI/UX yurtimizda rivojlanib kelayotgan dizaynerlik sohalaridan biri hisoblanadi. Lekin men hali o\'zbek tilidagi shu sohaga oid maqola uchratmadim. Maqolam qiziqarliroq bo\'lishi uchun UX da animatsiya mavzusini tanladim va bu sizga yoqadi degan umidaman. Maqolada animatsiya bo\'yicha hech qanday yangilik yaratilmagan, barcha asosiy prinsiplar va qoidalarni bir joyga jamladim. Siz bilan birgalikda o\'rganib chiqamiz.Animatsiya tezligi davomiyligi
+Siz animatsiya yaratayotganizda har bir jarayonni foydalanuvchi tushuna olishi uchun sekin bo\'lishi kerak ammo bu sekinlik foydalanuvchining zerikishiga olib kelmasligi shart.
+     </string>-->
+    <string name="text_temurusmon">Hozirgi vaqtga kelib interfeys animatsiyasi bilan foydalanuvchida taassurot qoldirish yoki ajablantirish juda ham qiyin jarayon hisoblanadi. Agar bunday bo\'lsa animatsiyani asosiy vazifalari qanday? Dastur oynalari o\'rtasidagi munosabatlarni ko\'rsatish, foydalanuvchi e\'tiborini yo\'naltirish va dasturni qanday ishlashini tushintirishdan iborat. UI/UX yurtimizda rivojlanib kelayotgan dizaynerlik sohalaridan biri hisoblanadi. Lekin men hali o\'zbek tilidagi shu sohaga oid maqola uchratmadim. Maqolam qiziqarliroq bo\'lishi uchun UX da animatsiya mavzusini tanladim va bu sizga yoqadi degan umidaman. Maqolada animatsiya bo\'yicha hech qanday yangilik yaratilmagan, barcha asosiy prinsiplar va qoidalarni bir joyga jamladim. Siz bilan birgalikda o\'rganib chiqamiz.
+
+Animatsiya tezligi davomiyligi
+Siz animatsiya yaratayotganizda har bir jarayonni foydalanuvchi tushuna olishi uchun sekin bo\'lishi kerak ammo bu sekinlik foydalanuvchining zerikishiga olib kelmasligi shart.
+    Tadqiqotlar shuni ko\'rsatmoqdaki interfeys optimal tezligi 200 ms -500 ms. Inson xotirasini o\'rganish natijasida erishilgan natija hisoblanadi. 100 ms dan kichik bo\'lgan tezlikdagi animatsiyalar foydalanuvchiga kerakli ma\'lumotni tushinib olishiga kamlik qiladi. 1 s dan ortiq animatsiyalar esa kutish vaqtini vujudga keltiradi va zerikish tuyg\'usini foydalanuvchida uyg\'otadi.
+    Mobil dizayn bo\'yicha ko\'rsatmalarda animatsiya davomiyligi o\'rtacha 200 ms -350 ms bo\'lishi yetarli hisoblanadi. Qurilmalar turli xil bo\'lganligi sababli animatsiya davomiyligi shunga qarab moslashadi. Chunki ko\'rish maydon oyna o\'lchamiga qarab ortib yoki kamayib borishi mumkin. Planshet , notbuk , komputer oynalari maydoni katta bo\'lganligi sababli animatsiya davomiyligi 30 % gacha oshirish kerak-taxminan 400 ms -450 ms gacha. Qo\'lga taqiladigan qurilmalarda esa 30% gacha kamaytirlish kerak-taxminan 100 ms-150 ms gacha.
+    Ro\'yxat elementlari (List item) kechikish davomiyligi qisqa vaqt ichida sodir bo\'lishi foydalanuvchining asabiylashmasligini oldini oladi. Har bir yangi element paydo bo\'lish davomiyligi 20 ms -25 ms oralig\'ida bo\'lishi kerak.
+    Linear motion (Chiziqli harakat)
+Biz siz bilan yana bir bor fizika fanini eslaymiz. Linear motion- bu doimiy bir xil tezlikda harakatlanuvchi chiziqli tekis harakat hisoblanadi. Bu foydalanuvchi g\'ayritabiiylik va suniylik tuyg\'usini uyg\'otadi.Animatsiyalar yaratganimizda kordinatalar sistemasidan foydalanamiz. Bundan nega foydalanamiz? Koordinatalar sistemasi orqali vaqt davomidagi uning pozitsiyasini belgilab olishga yordam beradi. Ob\'ekt pozitsiyasi  y o\'qida, harakat vaqt dovimiyligi x o\'qida o\'zgarib boradi.
+    Ease-in (Yengillik)
+Ease-in - bu tekis tezlanuvchan harakat hisoblanadi. Vaqti o\'tishi bilan ob\'ekt tezligi o\'sib boradi. Ob\'ekt ekranni butunlay tark etganda ease-in ishlatilinadi va doim shunday holatlarda qo\'llanishi kerak.
+Ushbu egri chiziq ob\'ektlardan to\'liq tezlikda chiqib ketganda ishlatilishi kerak. Bular tizim xabarnomalari yoki interfeys kartalari bo\'lishi mumkin. Shuni yodda tutingki, bunday animatsiya faqat ob\'ektlar ekranni abadiy tark etganda ishlatilishi kerak va biz ularni eslay olmaymiz yoki qaytarolmaymiz.
+    Harakatlanish davomiyligi va barcha ob\'ektlar uchun masofa bir xil, ammo koordinata o\'qidagi  kichik o\'zgarishlar ham animatsiya his qilishimizga ta\'sir qilish imkoniyatini beradi.</string>
+    Xulosa
+
+    Yuqoridagi keltirilgan ma\'lumotlar orqali shuni tushinish mumkinki. Ilova orqali foydalanuvchiga tabiiylikni yetkazib berishimiz kerak. Ilovada ishlatilgan animatsiyalar foydaluvchining zeriktirmasligi, ilova bilan ishlashga halaqit qilmasligi va vaqtini o\'g\'irlamasligi shart. Bizning maqsad foydalanuvchiga tushunarli, qulay va yoqimli ilova darajasiga olib chiqish.
+    <string name="title_temurusmon">UI/UX bo`yicha masterklass</string>
+    <string name="text_abdumajidaka">"\tDasturlashni kelajakda ko`p pul topaman deb o\`rganmaganman, chunki o`sha paytida dasturlashni boshlaganimda dasturchini ,umuman , qancha oylik olishini so`raydigan odam aytib bera olmasdi, dasturchini nima ish qilishini ham bilishmasdi.Faqat men qiziqardim kod yozishga , har xil algoritmlar masalalarga matematik yondashishlarni yaxshi ko`rardim.Hozirgi kunda dasturchilarga bo`lgan talab qiziqish ortib bormoqda. \n\tMuhimi , intilish , qolgani sekin ketaveradi… chunki hayot o`zi talab qiladi,nimani o`rganishingiz kerakligi, shu  kasbga bo`lgan muhabbatingiz bo`lsa, menimcha ishingiz besh bo`laveradi. \n\t“Yigit kishiga qirq hunar oz” deganidek ,nafaqat, dfasturchi bo`lib ishlayman , balki, o`qishga kirgan paytimda ham ta`lim sohasiga qiziqardimta`lim sohasiga,bolalarga , abituriyentlarga dars berardim, keyin keyin borib dasturlashni o`rgata boshladim. Student vaqtimda o`qituvchilik qilish tirikchilik hisoblangan edi, lekin hozirgi kunda unday emas, chunki avalo,yuqori maqsad bu ilm ulashish bo`lish kerak o`qituvchida,albatta. Agar shu niyatda bo`ladigan bo`lsa o`quvchiga kerakli bilimni yurakdan chiqarib beradi.\n\t “Bugungi kunda o`zingdagi bilimni o`zgaga o`rgata olsang ,ham savob ish bo`ladi,ham kimningdir kelajakdagi nimadir yutuqlargaerishishligiga sababchi bo`ladi, meni gapim emas ustozlarimizning gapi ” .Shu maslahatlarga amal qilib bugungi kunda ilm ulashib kelmoqdamiz.   "</string>
+    <string name="text_temurusmon_two">\tAssalomu alaykum. Bugun sizlar bilan kichik bo`lsada UI/UX bo`yicha masterklass qilib ko`ramiz. Dizayn sohasiga kirib borganimizda turli xil muammolarga uchraymiz. Bu muammolarni yechishda qiyinchiliklarga uchraymiz va bitta to`xtamga kelolmaymiz. Yoki g`oya izlash, ranglar, shriftlar tanlashda ham qiyinchiliklar bo`ladi. Bugun shu sizni qiynayotgan muammolarga yechim izlaymiz. Sizga albatta yordam beradi degan umiddaman.
+    Eng ajoyib dizayn go`zalliklariga boy 3 ta sayt bor. Ular behance , pinterest , dribble g`oya olishning eng kerakli manbalari. 1-2 soat vaqtingizni shu saytlarda o`tkazing. Ba`zi bo`lajak dizaynerlarga bu yoqmaydi. Agar shunday qilsalar go`zallikni his qila boshlashadi , dizaynda texnologiyalarini bilish yetarli emas.
+    Ishingiz davomida ishlatgan resurslaringiz ham sifatli bo`lishi kerak. Gap asosiy resurs suratlar haqida ketyapti. Masalan mashina , kiyim-kechak, kerakli jihozlar shu kabi rasmlarni brend firmalarni saytidan oling. Sifat jihatidan juda yuqori hisoblanadi. Ba`zilari nusxa olishga ruxsat bermaydi. Google Chrome dan Inspect (Ctrl+shift+i) orqali source dan topishingiz mumkin.
+    Bugun men mahsulot haqida oynasini dizayn tayyorlaganman. Bunda SATECHI komputer, mobil telefon, mashinalar uchun kerakli va sifatli  jihozlar ishlab chiqaruvchi kompaniya veb-sayt dizaynni asos qilib oldim.
+
+Komputeringiz yoki mobil telefoningiz uchun kerakli jihozlarni SATECHI va Baseus brendlaridan sotib olishni maslahat bergan bo`lardim.
+
+Shrift va rang tanlash.
+Apple kompaniyasi IOS 9-versiyasidan boshlab SF shriftlardan foydalanilishadi. San Fransisko - bu SF Pro, SF Pro rounded, SF Mono, SF Compact va SF Compact yumaloqlangan sans serif turidagi oila. SF Pro - bu iOS, macOS va tvOS tizimlaridagi shrift; SF Compact - bu watchOS tizimidagi shrift. Tizim shriftlari tushunarli va neytral ko`rinadigan platforma interfeysi interfeysining vizual ravshanligiga mos kelish uchun yaratilgan.
+    \nDizayn tayyorlashda UX va UI dizayn\n
+    Bu yerda asosan shriftlar bilan ishlaymiz. Kontent qismi matnlar va button dan iborat. iPhone X dan boshlab barcha oynalar radiusli burchak holatda chiqarilgan sababli kontent qismi ham radiusli burchak holatda.
+
+Rasmlarda qadamlarni tartiblab chiqdim.
+
+
+\n\tMatn oraliqlar nisbati 4px .  Rasm orqali ko`rishingiz mumkin. Bunday qilishdan maqsad matn qismlarini qaysi biriga bog`liq ekanligini aniqlash.
+        \n1-qadam. 812x375 o`lchamli oyna chizing. #f2f2f2 rang bering background sifatida.
+
+\n2-qadam. 408x375 px bo`lgan kontent oynasi chizing. #ffffff rang bering. Yuqori burchaklari radiusini 40 px qiling.
+
+        \n3-qadam. UX qismi ishlab chiqing.
+
+\n4-qadam. Kontent oynasiga matnlari joylashtiring.
+
+\nUlarga quyidagi o`lchamlarni bering.
+
+\n \tcaption (SATECHI AUDIO): katta harflarda, reguler , 11 px;
+\n \thead text (Dual Sonic Conical): bold, 27 px;
+\n \tbody text (Mahsulot haqida…):  reguler , 16 px;
+\n \tprice text ($29.99): semibold, 21 px;
+\n \tmatn ranggi: #141414;
+    \nXulosa
+\nVaqtingizni kerakli va foydali ma`lumotlarga sarflang. Ketgan vaqtingizdan nimadir olishga harakat qiling!</string>
+    <string name="plant_detail_image_content_description">plant_detail_image_content_description</string>
+    <string name="job_qudrat_aka">Qudrat Abdurahimov programmer, CEO of `GITA DASTURCHILAR AKADEMIYASI`</string>
+    <string name="job_sherzodbek_aka">Sherzodbek Muhammadiev, Senior Android  Developer at KashApp</string>
+    <string name="job_abdumajid_aka">Abdumajid Akramoov Senior Android developer at BTS cargo express</string>
+    <string name="job_jahongir_aka">Jahongir Rahmonov programmer at `Delivery Hero`</string>
+    <string name="job_sherali_aka">Sherali Obidov software enginer at Google</string>
+    <string name="job_temur_aka">Temur Usmonov mentor of `GITA DASTURCHILAR AKADEMIYASI`</string>
+</resources>
+<!--\n1-qadam. 812x375 o`lchamli oyna chizing. #f2f2f2 rang bering background sifatida.
+
+\n2-qadam. 408x375 px bo`lgan kontent oynasi chizing. #ffffff rang bering. Yuqori burchaklari radiusini 40 px qiling.
+
+        \n3-qadam. UX qismi ishlab chiqing.
+
+\n4-qadam. Kontent oynasiga matnlari joylashtiring.
+
+\nUlarga quyidagi o`lchamlarni bering.
+
+\n\tcaption (SATECHI AUDIO): katta harflarda, reguler , 11 px;
+\n\thead text (Dual Sonic Conical): bold, 27 px;
+\n\tbody text (Mahsulot haqida…):  reguler , 16 px;
+\n\tprice text ($29.99): semibold, 21 px;
+\n\tmatn ranggi: #141414;-->
